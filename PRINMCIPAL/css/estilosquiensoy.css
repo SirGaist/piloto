@@ -1,0 +1,42 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+
+}
+
+.sidebar{
+    position: fixed;
+    left: 0;
+    width: auto;
+    height: 100%;
+    background: #042331;
+}
+
+.sidebar a{
+    margin-top: 500px;
+    font-size: 15px;
+    color: white;
+    text-align: left;
+    background: #066146;
+    padding: 5px 20px;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    color: #1A132F;
+}
+
+h1 h2 {
+    margin-top: 50px;
+    color: white;
+    font-size: smaller;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 img {
+    width: 500px;
+}
+
